@@ -1,0 +1,194 @@
+{
+  "navlinks": {
+    "home": "Home",
+    "OurMessage": "About Us",
+    "Services": "Services",
+    "contactUs": "Contact Us"
+  },
+
+  "landing": {
+    "header": "UMC Group ",
+    "body": "Since 2020, UMC Group has been delivering advanced service solutions, driven by high quality and trusted partnerships, with a clear vision for expansion across the Middle East and North Africa.",
+    "CTA": "Read More"
+  },
+
+  "about": {
+    "header": "Who We Are",
+    "aboutBody": [
+      "We turn challenges into opportunities by providing integrated solutions that meet the needs of companies, government entities, and organizations efficiently and innovatively. In a short time, we have successfully completed key projects and built strong expertise, enabling us to deliver real and sustainable value to our clients",
+      "We operate with a commitment to quality, transparency, and trust  making us a reliable partner for growth and expansion in Saudi Arabia and across the Middle East and North Africa"
+    ]
+  },
+
+  "ceoMessage": {
+    "header": "CEO’s Message",
+    "subtitle": "Dear Valued Partners and Clients,",
+    "body": [
+      "From day one, our ambition has been to make a real impact in the service sector, not just to provide conventional solutions. Today, we are proud of our achievements and strategic partnerships, which reflect the trust our clients place in us.",
+      "We lead with a clear vision, a dedicated team, and strict adherence to the highest standards of quality and safety, continuously driving growth and exceeding expectations.",
+      "Our future is being shaped today… with confidence, ambition, and relentless passion."
+    ],
+    "signature": "Warm regards"
+  },
+
+  "ourComp": {
+    "name": "Our Companies"
+  },
+
+  "aboutUs": {
+    "header": "Our Vision for Sustainable Success",
+    "body": "At UMC Group, we believe that sustainable success begins with a clear vision, strengthened by strong values and driven by excellence, Guided by this approach, we deliver integrated solutions built on quality and innovation, while fostering trusted relationships and creating lasting value for our clients and partners."
+  },
+
+  "visionTitle": "Vision & Values",
+  "Vision": {
+    "header": "Vision ",
+    "body": "To achieve growth and leadership across construction, infrastructure, public services, and airport operations within Saudi Arabia, while expanding our presence across the Middle East and North Africa."
+  },
+
+  "values": {
+    "header": "Values",
+    "subtitle": "Our operations are guided by a set of core values that shape our decisions and define our identity",
+    "valuesBody": {
+      "ethics": {
+        "title": "Integrity & Transparency",
+        "body": "We uphold the highest ethical standards in all our dealings. "
+      },
+      "excellence": {
+        "title": "Excellence & Innovation",
+        "body": "We continuously enhance our performance and adopt advanced technologies to deliver superior solutions. "
+      },
+      "fairReturn": {
+        "title": "Value Creation",
+        "body": "We are committed to delivering fair and sustainable value to all stakeholders. "
+      },
+      "mutualRespect": {
+        "title": "Respect & Collaboration",
+        "body": "We foster a collaborative work environment built on mutual respect. "
+      },
+      "safety": {
+        "title": "Safety First",
+        "body": "We are dedicated to maintaining a safe, incident-free workplace."
+      }
+    }
+  },
+
+  "objective": {
+    "header": "Our Objectives",
+    "subtitle": "We strive to achieve operational excellence and sustainable growth through",
+    "objectiveBody": {
+      "enhancing": {
+        "title": "Enhancing Customer Satisfaction",
+        "body": "Delivering services that exceed expectations. "
+      },
+      "attracting": {
+        "title": "Attracting & Developing Talent",
+        "body": "Creating a motivating work environment that supports continuous growth. "
+      },
+      "delivering": {
+        "title": "Delivering Competitive Value",
+        "body": "Balancing high quality with cost-effective solutions. "
+      },
+      "operational": {
+        "title": "Operational Efficiency",
+        "body": "Executing projects within budget while maintaining consistent quality standards."
+      }
+    }
+  },
+
+  "Qhse": {
+    "header": "Quality, Health, Safety & Environment (QHSE)",
+    "subtitle": "We are committed to the highest standards of quality, health, safety, and environmental practices as a foundation for sustainable success",
+    "body": {
+      "quality": {
+        "title": "Continuous Improvement",
+        "body": "Enhancing processes and performance efficiency. "
+      },
+      "health": {
+        "title": "Occupational Health",
+        "body": "Ensuring the well-being of employees and clients across all work environments. "
+      },
+      "safety": {
+        "title": "Safety Commitment",
+        "body": "Implementing strict safety measures for employees and contractors."
+      },
+      "environment": {
+        "eTitle": "Environmental Responsibility",
+        "eSubtitle": "Reducing environmental impact and promoting sustainable practices."
+      }
+    }
+  },
+
+  "ourServices": {
+    "header": "Our Services",
+    "subtitle": {
+      "p": "At ",
+      "title": "UMC Group ",
+      "body": "we offer a comprehensive range of services designed to support our clients across various sectors with efficiency and professionalism. From consulting to engineering, construction, electrical services, digital security, and civil works, we deliver innovative and reliable solutions focused on quality, safety, and operational excellence. Our goal is to empower clients to achieve their objectives effectively while providing sustainable value in every project we undertake."
+    },
+    "body": {
+      "consultancy": {
+        "title": "Consulting",
+        "body": "We provide specialized consulting through a team of experts, developing actionable operational and technical strategies, along with feasibility studies and analyses that support informed decision-making and enhance project success."
+      },
+      "engAndDes": {
+        "title": "Engineering and Design",
+        "body": "Our engineering team delivers comprehensive execution designs for telecommunications and infrastructure systems (ISP/OSP), offering practical plans that balance efficiency, quality, and cost-effectiveness to ensure optimal project outcomes."
+      },
+      "construction": {
+        "title": "Construction",
+        "body": "We implement the latest practices and technologies in project management and execution, ensuring on-time delivery while maintaining the highest standards of quality, safety, and operational efficiency."
+      },
+      "procurement": {
+        "title": "Procurement",
+        "body": "Our procurement team leverages extensive experience to build trusted relationships with suppliers and subcontractors, ensuring the best materials and terms for our clients"
+      },
+
+      "electrical": {
+        "title": "Electrical Services",
+        "body": "We provide full-service electrical solutions, including installation and maintenance of equipment, high-voltage panels, digital metering systems, and industrial cabling, adhering to the highest quality and safety standards"
+      },
+
+      "iTCon": {
+        "title": "Cybersecurity & CCTV",
+        "body": "We deliver integrated solutions for enterprise networks, cloud computing, data centers, and advanced surveillance systems, including IP cameras, license plate recognition systems, and cloud backup, ensuring comprehensive protection and operational efficiency."
+      },
+
+      "civil": {
+        "title": "Civil",
+        "body": "We provide complete civil works solutions, including plumbing, mechanical structures, civil project execution, and demolition as needed, all while adhering to strict quality and safety standards."
+      },
+      "WorkforceSupply": {
+        "title": "Workforce Supply",
+        "body": "We supply qualified personnel, including engineers, technicians, and supervisors, to ensure projects are executed efficiently and professionally, meeting deadlines while upholding quality and safety standards."
+      },
+      "firefightingSolutions": {
+        "title": "Firefighting Solutions",
+        "body": "We offer comprehensive fire protection solutions, including the design and installation of alarm and firefighting systems, fire extinguishers, and automated suppression systems, all in accordance with the highest safety and quality standards."
+      }
+    }
+  },
+
+ "contactUs": {
+    "header": "Contact Us",
+    "socialMedia": "Social Media",
+    "forms": {
+      "title": "Contact Us",
+      "name": "Your Name",
+      "palsholderName": "Enter Your Name",
+      "email": "Your Email",
+      "palsholderEmail": "Enter Your Email",
+      "message": "Message",
+      "palsholderMessage": "Enter Your Message",
+      "CTA": "Submit"
+    }
+  },
+
+  
+  "footer": {
+    "contant": "Content Us",
+    "social": "Social Media",
+    "location": "Location",
+    "coName": "United Movement Group of Companies Ltd"
+  }
+}
