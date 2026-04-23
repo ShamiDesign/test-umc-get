@@ -42,9 +42,9 @@ import srv9 from "./image/Services/09-Firefighting.png";
 import CEO from "./image/CEO.png";
 import aboutUs from "./image/About Us/About.png";
 import aboutUs2 from "./image/About Us/AboutUs.png";
-import hero from "./image/About Us/Services.png"
-import sevHero from "./image/Services/ServHero.png"
-import contact from "./image/contactUS.png"
+import hero from "./image/About Us/Services.png";
+import sevHero from "./image/Services/ServHero.png";
+import contact from "./image/contactUS.png";
 export const assets = {
   wLogo,
   CLogo,
@@ -90,8 +90,8 @@ export const assets = {
   CEO,
   aboutUs,
   aboutUs2,
-sevHero,
-contact
+  sevHero,
+  contact,
 };
 
 export const navLinks = [
@@ -102,7 +102,10 @@ export const navLinks = [
 ];
 
 export const comp = [
-  { image: co1, path: "https://umc-hv3hklxpe-shamidesigns-projects.vercel.app/" },
+  {
+    image: co1,
+    path: "https://umc-hv3hklxpe-shamidesigns-projects.vercel.app/",
+  },
   { image: co2, path: "/" },
   { image: co3, path: "/" },
   { image: co4, path: "/" },
@@ -184,8 +187,7 @@ export const Objectives = [
     bodyKey: "objective.objectiveBody.operational.body",
     imageKey: val1,
   },
-]
-
+];
 
 export const Qhse = [
   {
@@ -211,26 +213,25 @@ export const Qhse = [
 ];
 
 export const ourServices = [
-
   {
     titleKey: "ourServices.body.consultancy.title",
     bodyKey: "ourServices.body.consultancy.body",
-    imageKey:  srv1,
+    imageKey: srv1,
   },
   {
     titleKey: "ourServices.body.engAndDes.title",
     bodyKey: "ourServices.body.engAndDes.body",
-    imageKey:  srv2,
+    imageKey: srv2,
   },
   {
     titleKey: "ourServices.body.construction.title",
     bodyKey: "ourServices.body.construction.body",
-    imageKey:  srv3
+    imageKey: srv3,
   },
   {
     titleKey: "ourServices.body.procurement.title",
     bodyKey: "ourServices.body.procurement.body",
-    imageKey: srv4
+    imageKey: srv4,
   },
   {
     titleKey: "ourServices.body.electrical.title",
