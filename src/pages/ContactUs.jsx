@@ -31,7 +31,7 @@ const ContactUs = () => {
   };
   return (
     <>
-      <div className="body flex flex-col-reverse lg:flex-row gap-5 md:justify-between  mt-22 md:my-28 mx-4 md:mx-10">
+      <div id="ContactUs" className="body flex flex-col-reverse lg:flex-row gap-5 md:justify-between  mt-22 md:my-28 mx-4 md:mx-10">
         <dev className="flex justify-center items-start w-full">
           <img src={assets.contact} alt="" className="w-[400px]  shadow overflow-hidden rounded-2xl" />
         </dev>

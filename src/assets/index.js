@@ -106,13 +106,13 @@ export const comp = [
     image: co1,
     path: "https://umc-hv3hklxpe-shamidesigns-projects.vercel.app/",
   },
-  { image: co2, path: "/" },
-  { image: co3, path: "/" },
-  { image: co4, path: "/" },
-  { image: co5, path: "/" },
-  { image: co6, path: "/" },
-  { image: co7, path: "/" },
-  { image: co8, path: "/" },
+  { image: co2, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co3, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co4, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co5, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co6, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co7, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
+  { image: co8, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
 ];
 
 export const ceoMessage = [

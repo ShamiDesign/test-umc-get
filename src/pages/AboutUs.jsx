@@ -21,7 +21,7 @@ const AboutUs = () => {
     }, []);
   return (
     <>
-      <section className="mt-28">
+      <section id="AboutUs" className="mt-28">
         <div className="Header flex flex-col px-4 md:px-20">
           <div className="flex flex-col items-center md:flex-row gap-4 md:gap-10 ">
             <div className="body mt-3  ">

@@ -14,7 +14,7 @@ const Services = () => {
   }, []);
   return (
     <>
-      <section className="mt-28">
+      <section id="Services" className="mt-28">
         <div data-aos="fade-up" className="Header flex flex-col px-4 md:px-20">
           <div className="grid grid-cols-1 md:grid-cols-2  gap-4 md:gap-20 ">
             <div className="body mt-3  ">

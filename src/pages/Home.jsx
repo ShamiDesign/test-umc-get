@@ -16,7 +16,7 @@ const Home = () => {
   // const body = t("landing.body", { returnObjects: true });
 
   return (
-    <section>
+    <section id="Home">
       <div className="bg relative h-screen">
         <img
           src={assets.hero}
