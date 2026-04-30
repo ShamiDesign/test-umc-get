@@ -12,7 +12,7 @@ const ContactUs = () => {
     setResult("Sending....");
     const formData = new FormData(event.target);
 
-    formData.append("access_key", "4685700d-698e-4f25-ad8d-555452b9b74a");
+    formData.append("access_key", "ea68c3a6-b3f9-42d0-8536-fc6143b6d1e0");
 
     const response = await fetch("https://api.web3forms.com/submit", {
       method: "POST",
@@ -31,9 +31,16 @@ const ContactUs = () => {
   };
   return (
     <>
-      <div id="ContactUs" className="body flex flex-col-reverse lg:flex-row gap-5 md:justify-between  mt-22 md:my-28 mx-4 md:mx-10">
+      <div
+        id="ContactUs"
+        className="body flex flex-col-reverse lg:flex-row gap-5 md:justify-between  mt-22 md:my-28 mx-4 md:mx-10"
+      >
         <dev className="flex justify-center items-start w-full">
-          <img src={assets.contact} alt="" className="w-[400px]  shadow overflow-hidden rounded-2xl" />
+          <img
+            src={assets.contact}
+            alt=""
+            className="w-[400px]  shadow overflow-hidden rounded-2xl"
+          />
         </dev>
 
         <div className="form flex flex-col w-full">

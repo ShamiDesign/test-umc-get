@@ -15,8 +15,8 @@ const AboutUs = () => {
   
   useEffect(() => {
       Aos.init({
-        duration: 800, // مدة الأنيميشن
-        once: true, // يحصل مرة واحدة بس
+        duration: 800,
+        once: true,
       });
     }, []);
   return (
