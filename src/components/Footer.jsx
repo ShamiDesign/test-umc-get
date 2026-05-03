@@ -63,7 +63,7 @@ const Footer = () => {
               {t("footer.location")}
             </h2>
             <div className="max-w-[250px]">
-              <a href="https://maps.app.goo.gl/6hLVFopJBH4TBtQ36">
+              <a href="https://maps.google.com/?q=21.624006,39.162441">
                 <img src={assets.map} alt="" className="rounded-2xl" />
               </a>
             </div>

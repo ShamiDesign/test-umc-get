@@ -104,7 +104,7 @@ export const navLinks = [
 export const comp = [
   {
     image: co1,
-    path: "https://umc-hv3hklxpe-shamidesigns-projects.vercel.app/",
+    path: "https://co.umcgc.com/",
   },
   { image: co2, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
   { image: co3, path: "https://ihf.sooqgate.com/img/Coming_Soon.png" },
